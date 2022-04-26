@@ -1,0 +1,2 @@
+# Full-Responsive-Website2
+This is the food delivery website code that is written HTML and CSS and their is no backend is include in this website this is just a front-end design. when you clone this code it might be in phone.css file in responsiveness their might be some changes needs  because it changes according to the size. But rather than that file all the code is totally fine i also upload pictures with the code because it takes a very much time to setup pictures again by downloading from the internet.
